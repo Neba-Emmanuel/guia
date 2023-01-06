@@ -1,2 +1,2 @@
 # guia
- Student's Guide
+ Student's Guide App
