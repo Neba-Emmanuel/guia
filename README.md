@@ -1,2 +1,2 @@
 # guia
- Student's Guide App made with KMM
+ Student's Guide App with KMM
